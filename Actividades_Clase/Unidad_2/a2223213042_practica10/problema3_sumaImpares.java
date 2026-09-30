@@ -1,0 +1,10 @@
+package a2223213042_practica10;
+
+public class problema3_sumaImpares {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
